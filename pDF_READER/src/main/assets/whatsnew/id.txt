@@ -1,0 +1,7 @@
+* Pembaruan besar berdasarkan permintaan dan umpan balik pembaca 
+* Antarmuka New Text-To-Speech (TTS) 
+* Peningkatan dukungan untuk EPUB 3.0, pemutaran file audio 
+* Permintaan pencarian multi-kata dalam semua format, termasuk PDF 
+* Dukungan untuk smartphone berlekuk 
+* Legenda status bar sekarang memiliki tiga opsi untuk dipilih: full, compact, dan chapter-oriented 
+* Lebih banyak umpan balik dan permintaan sangat diterima!

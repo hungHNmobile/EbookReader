@@ -1,0 +1,6 @@
+* Suuri päivitys, joka perustuu lukijoiden pyyntöihin ja palautteeseen 
+* Uusi teksti-puheeksi (TTS) -rajapinta 
+* Parannettu tuki EPUB 3.0: lle, äänitiedostojen toisto 
+* Useilla eri hakusanoilla kaikissa tiedostomuodoissa, mukaan lukien PDF 
+* Tilarivin legenda sisältää nyt kolme vaihtoehtoa: täysi, pienikokoinen ja luvun suuntainen 
+* Lisää palautetta ja pyyntöjä on erittäin tervetullut!

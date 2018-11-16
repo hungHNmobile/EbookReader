@@ -1,0 +1,6 @@
+* Az olvasó kéréseinek és visszajelzéseinek köszönhetően jelentős frissítés 
+* Új szöveg-to-speech (TTS) felület 
+* Továbbfejlesztett támogatás az EPUB 3.0-hoz, audió fájlok lejátszása 
+* Többféle keresési lekérdezés minden formátumban, beleértve a PDF-t 
+* Az állapotjelző legenda most három lehetőség közül választhat: teljes, kompakt és fejezetközpontú 
+* Több visszajelzés és kérés nagyon örvendetes!

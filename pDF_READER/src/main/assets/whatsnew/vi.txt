@@ -1,0 +1,7 @@
+* Cập nhật lớn dựa trên yêu cầu và phản hồi của người đọc 
+* Giao diện Text-To-Speech mới (TTS) 
+* Cải thiện hỗ trợ cho EPUB 3.0, phát lại tệp âm thanh 
+* Truy vấn tìm kiếm nhiều từ ở tất cả các định dạng, bao gồm PDF 
+* Hỗ trợ cho điện thoại thông minh nổi bật 
+* Chú giải thanh trạng thái hiện có ba tùy chọn để chọn: đầy đủ, nhỏ gọn và hướng theo chương 
+* Phản hồi và yêu cầu khác rất được hoan nghênh!

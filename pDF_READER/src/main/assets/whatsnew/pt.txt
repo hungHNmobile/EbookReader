@@ -1,0 +1,7 @@
+* Uma grande atualização com base nas solicitações e comentários dos leitores 
+* Nova interface de conversão de texto em fala 
+* Suporte aprimorado para EPUB 3.0, reprodução de arquivos de áudio 
+* Consultas de pesquisa de várias palavras em todos os formatos, incluindo PDF 
+* Suporte para smartphones entalhados 
+* A legenda da barra de status agora tem três opções para escolher: completa, compacta e orientada por capítulos 
+* Mais comentários e solicitações são muito bem-vindos!

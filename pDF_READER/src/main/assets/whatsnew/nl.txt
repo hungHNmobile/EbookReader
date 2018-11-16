@@ -1,0 +1,7 @@
+* Een belangrijke update op basis van verzoeken en feedback van lezers 
+* Nieuwe Text-To-Speech (TTS) -interface 
+* Verbeterde ondersteuning voor EPUB 3.0, afspelen van audiobestanden 
+* Zoekopdrachten van meerdere woorden in alle indelingen, inclusief PDF 
+* Ondersteuning voor gekerfde smartphones 
+* De legende van de statusbalk heeft nu drie opties om uit te kiezen: volledig, compact en hoofdstukgericht 
+* Meer feedback en verzoeken zijn van harte welkom!
